@@ -1,3 +1,4 @@
 ()php
 
-phpinfe();
+phpinfe（）;
+111
